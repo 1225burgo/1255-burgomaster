@@ -163,7 +163,6 @@ localeStrings.push("<h1>1255 Burgomaster</h1>" +
     "<a href='https://docs.google.com/spreadsheets/d/1WxRoxfPpYBHqvWb4mQNxGVr3r4VyxHSEuELzdU1I2PE'>https://docs.google.com/spreadsheets/d/1WxRoxfPpYBHqvWb4mQNxGVr3r4VyxHSEuELzdU1I2PE</a><br>");//131
 localeStrings.push("wishing well");
 localeStrings.push("sawmill");
-localeStrings.push("wall");
 localeStrings.push("stone wall");//135
 localeStrings.push("tower");
 localeStrings.push("stone tower");
@@ -171,7 +170,6 @@ localeStrings.push("home");
 localeStrings.push("homes");
 localeStrings.push("inn");//140
 localeStrings.push("gallows");
-localeStrings.push("fountain");
 localeStrings.push("treasury");
 localeStrings.push("gold");
 localeStrings.push("population");//145
